@@ -97,19 +97,19 @@ int main()
 			double promedioEstudiante = (calificacion1 + calificacion2 + calificacion3 + calificacion4) / 4.0;
 			sumaPromedios = sumaPromedios + promedioEstudiante;
 
-			cout << "[RESULTADO]\n";
+			cout << "RESULTADO\n";
 			cout << "Estudiante: " << nombreEstudiante << "\n";
 			cout << "Promedio: " << promedioEstudiante << "\n";
 
 			// Condicionales para saber si está Aprobado (>= 70) o Reprobado (< 70)
 			if (promedioEstudiante >= 70) {
-				cout << " -> Estado: APROBADO" << endl;
+				cout << "Estado: APROBADO" << endl;
 				aprobados++;
 
 			}
 
 			else {
-				cout << " -> Estado: REPROBADO" << endl;
+				cout << "Estado: REPROBADO" << endl;
 				reprobados++;
 
 			}
