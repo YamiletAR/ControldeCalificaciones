@@ -63,6 +63,7 @@ A continuación, se presentan las capturas de pantalla que muestran el funcionam
 **Registro de estudiantes y calificaciones.**
 <img width="1825" height="985" alt="image" src="https://github.com/user-attachments/assets/ff203366-1f12-4da7-acac-05a1da7a3cc6" />
 
+
 **Validacion de datos: Aqui se puede comprobar que se sucede cuando se ingresan datos fuera de rango.**
 <img width="1382" height="421" alt="image" src="https://github.com/user-attachments/assets/87b18d40-5bd9-4b98-a736-831a5a6d90d7" />
 
@@ -70,8 +71,10 @@ A continuación, se presentan las capturas de pantalla que muestran el funcionam
 **Resumen general del grupo, incluyendo aprobados, reprobados y promedio más alto.**
 <img width="867" height="254" alt="image" src="https://github.com/user-attachments/assets/bd71d767-af8a-4f7e-ae79-70dc838124f9" />
 
+
 **Procesamiento de otro grupo**
 <img width="1002" height="798" alt="image" src="https://github.com/user-attachments/assets/c8ce480b-de52-4aaf-9db2-78577a0c62df" />
+
 
 **Esta captura es continuacion del captura anterior donde se procesan 3 estudiantes, aqui se muestra como se muestra el resuemen cuando hay dos personas con el mismo promedio**
 <img width="1105" height="750" alt="image" src="https://github.com/user-attachments/assets/560d2261-81a0-4699-b0b3-048300c32a52" />
