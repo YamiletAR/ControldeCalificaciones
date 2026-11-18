@@ -1,6 +1,6 @@
 # Sistema de Control de Calificaciones – Centro Educativo La Nueva Escuela
 
-### Presentacion
+### Presentación
 * **Nombre:** Yamilet Adames Rodríguez
 * **Matrícula:** 2024-2997
 * **Asignatura:** Lógica de Programación
