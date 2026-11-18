@@ -26,11 +26,11 @@ El programa solicita los siguientes datos:
 3. Registra el nombre y las cuatro calificaciones de cada estudiante.
 4. Verifica que cada calificación se encuentre entre 0 y 100.
 5. Calcula el promedio individual de cada estudiante.
-6. Determina su estado académico:
+6. Determina el estado académico:
    * **Aprobado:** promedio mayor o igual a 70.
    * **Reprobado:** promedio menor que 70.
 7. Acumula los promedios individuales para calcular el promedio general del grupo.
-8. Identifica al estudiante con el promedio más alto, incluyendo los casos de empate.
+8. Identifica al estudiante o los estudiantes con el promedio más alto.
 9. Presenta el resumen general del grupo.
 10. Pregunta si se desea procesar otro grupo.
 
